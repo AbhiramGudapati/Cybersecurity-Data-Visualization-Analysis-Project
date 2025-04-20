@@ -76,13 +76,6 @@ This repository contains the final project submission for the Data Analysis and 
 
 ---
 
-## 👤 Authors
-
-- [Your Name]
-- [Your Team Members if applicable]
-
----
-
 ## 📜 License
 
 This project is created as part of an academic submission and is intended for educational purposes only.
